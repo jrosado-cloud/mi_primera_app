@@ -9,3 +9,10 @@ Esta es la primera aplicación móvil desarrollada con Flutter, sincronizada con
 1. Proyecto inicial.
 2. Limpieza de código y corrección de advertencias.
 3. Personalización de bienvenida y README.
+## Evidencias del proyecto
+
+### Pantalla Principal
+![Principal](Pagina%20Principal.jpeg)
+
+### Pantalla Secundaria
+![Secundaria](Pagina%20secundaria.jpeg)
