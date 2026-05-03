@@ -3,12 +3,16 @@
 **Carrera:** Ingeniería en Sistenas Inteligentes
 **Asignatura:** Aplicaciones Moviles 
 ## Descripción
-Esta es la primera aplicación móvil desarrollada con Flutter, sincronizada con GitHub mediante Visual Studio Code.
+Este proyecto consiste en el desarrollo de una aplicación móvil multiplataforma utilizando el framework Flutter. El objetivo principal es la gestión administrativa de una ciudadela, permitiendo a los usuarios navegar de manera fluida entre diferentes módulos funcionales
 
 ## Commits realizados:
-1. Proyecto inicial.
-2. Limpieza de código y corrección de advertencias.
-3. Personalización de bienvenida y README.
+Limpieza y Estructura: Se eliminó el código base del contador y se corrigieron errores de sintaxis para establecer la base de la nueva aplicación.
+
+Modularización: Creación de la carpeta screens y separación de la lógica de la interfaz en archivos independientes para mejorar la escalabilidad.
+
+Implementación de Interfaz: Integración de iconos, botones y navegación funcional entre las tres pantallas principales (Menú, Alícuotas y Espacios).
+
+Versión Final: Sincronización exitosa con GitHub bajo el mensaje "Interfaz de Ciudadela terminada y funcional", garantizando un despliegue libre de errores.
 ## Evidencias del proyecto
 
 ### Pantalla Principal
