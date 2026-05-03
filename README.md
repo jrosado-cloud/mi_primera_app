@@ -12,7 +12,10 @@ Esta es la primera aplicación móvil desarrollada con Flutter, sincronizada con
 ## Evidencias del proyecto
 
 ### Pantalla Principal
-![Principal](Pagina%20Principal.jpeg)
+<img width="1913" height="1019" alt="image" src="https://github.com/user-attachments/assets/d7ea6976-436b-42f2-adbb-c43d72b219d3" />
 
-### Pantalla Secundaria
-![Secundaria](Pagina%20secundaria.jpeg)
+### Estado de Alicuotas
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/db41c9a1-9920-43d9-8a19-66600dd477b8" />
+
+### Espacios comunes
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/c92afd16-b260-41fb-8e5c-6a9b33425f20" />
